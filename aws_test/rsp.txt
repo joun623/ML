@@ -1,0 +1,2 @@
+{"errorMessage": "name 'user_results' is not defined", "errorType": "NameError", "stackTrace": [["/var/task/lambda_function.py", 17, "lambda_handler", "user_results = group_by_user(rekognize_results[\"Items\"])"], ["/var/task/lambda_function.py", 53, "group_by_user", "return user_results"]]}
+{"statusCode": 200, "user_results": {}}{"statusCode": 200, "user_results": {}}
